@@ -87,9 +87,6 @@ https://www.macrodroid.com/
 https://www.rainmeter.net/  
 https://www.ghisler.com/  
 https://www.u.tools/  
-
-https://www.voidtools.com/
-
-http://www.wox.one/
-
-https://www.zapier.com/
+https://www.voidtools.com/  
+http://www.wox.one/  
+https://www.zapier.com/  

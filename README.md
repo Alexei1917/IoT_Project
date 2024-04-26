@@ -76,6 +76,7 @@ https://www.rarbgprx.org/
 https://www.rutracker.org/  
 https://www.thepiratebay.org/  
 9.System  
+https://www.marticliment.com/wingetui/  
 https://www.aida64.com/  
 https://www.ccleaner.com/  
 https://www.cpuid.com/  
@@ -89,4 +90,7 @@ https://www.ghisler.com/
 https://www.u.tools/  
 https://www.voidtools.com/  
 http://www.wox.one/  
+10.Game  
+https://store.steampowered.com/  
+https://store.epicgames.com/  
 https://www.zapier.com/  

@@ -1,0 +1,4 @@
+#ifndef PROTOCOLPARSER_H
+#define PROTOCOLPARSER_H
+
+#endif // PROTOCOLPARSER_H

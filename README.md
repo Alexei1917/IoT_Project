@@ -7,4 +7,9 @@ ARM-MDK
 QEMU
 Raspberry Pi Imager
 IAR
+Arduino
+
+Visual Studio Code
+PlatformIO IDE
+
 Advanced IP Scanner
